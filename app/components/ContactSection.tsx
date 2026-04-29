@@ -243,7 +243,7 @@ export default function ContactSection() {
               <div className="flex items-center gap-2">
                 <div className="w-2 h-2 rounded-full bg-green-400" />
                 <span className="text-sm" style={{ color: "#e8e8f0" }}>
-                  Usually within 2 to 4 hours
+                  Usually within 1 to 2 hours
                 </span>
               </div>
             </div>
